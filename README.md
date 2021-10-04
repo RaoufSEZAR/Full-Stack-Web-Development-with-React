@@ -1,6 +1,5 @@
 # Full-Stack-Web-Development-with-React
-This repo have all my projects that I have coded while I was learning in this course (Hong kong full stack MERN by Coursera) with all tasks and assigments
-We coded the backend rest API for ConfFusion restaurant to CURD dishes,leaders ,Users and promotions
+This repo has all the projects that I have coded while I was learning in this course (Full-Stack-Web-Development-with-React by Coursera,Hong kong university) with all tasks and assignments We coded the backend Rest API using Node.js for ConfFusion restaurant to create, update, delete and read for all of the dishes, leaders, Users, and promotions.
 
  ## to Start With any of this courses All you need to open it in your terminal and write:
   #### npm install
