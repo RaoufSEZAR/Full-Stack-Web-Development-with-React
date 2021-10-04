@@ -1,5 +1,5 @@
 # Full-Stack-Web-Development-with-React
-This repo have all my projects that I have coded while I learned in this course (Hong kong full stack MERN by Coursera) with all tasks and assigments
+This repo have all my projects that I have coded while I was learning in this course (Hong kong full stack MERN by Coursera) with all tasks and assigments
 We coded the backend rest API for Confision restaurant to CURD dishes,leaders and permisons
 
  ## to Start With any of this courses All you need to open it in your terminal and write:
